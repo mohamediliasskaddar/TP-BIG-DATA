@@ -2,6 +2,10 @@
 ## Objectifs du TP¶
 Initiation au framework hadoop et au patron MapReduce, utilisation de docker pour lancer un cluster hadoop de 3 noeuds.
 
+<p align="center">
+  <img src="screenshots/batch.png" alt="Batch Logo" width="500"/>
+</p>
+
 ## Outils et Versions¶
 ```
     - Apache Hadoop Version: 3.3.6.
