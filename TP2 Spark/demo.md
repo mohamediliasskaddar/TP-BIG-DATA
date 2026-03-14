@@ -28,3 +28,4 @@ Ctrl + C
 ```bash
 cat out
 ```
+ > scala  is not included here!
